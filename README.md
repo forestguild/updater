@@ -21,6 +21,6 @@ wowupdater:
 jekyll updateprogress
 
 # If you want to set custom config
-jekyll attendance --help
+jekyll updateprogress --help
 ```
 
