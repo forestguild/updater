@@ -1,7 +1,6 @@
 build:
-        rm -f ./*.gem
-        gem build jekyll-wowupdater.gemspec
+	rm -f ./*.gem
+	gem build jekyll-wowupdater.gemspec
 
 push:
-        gem push ./*.gem
-
+	gem push ./*.gem
